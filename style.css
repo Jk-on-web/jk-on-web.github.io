@@ -212,8 +212,8 @@ header.sticky{
         &::after {
         content: "|";
         position: absolute;
-        right: 200px;
-        width: 100%;
+        right: 239px;
+        width: 60%;
         color: white;
         background: var(--background);
         animation: typing 4s steps(var(--steps)) 
